@@ -15,6 +15,18 @@ This repository contains a custom RatingBar component built for Jetpack Compose,
 
 <img src="https://github.com/xavijimenezmulet/shapes-for-jetpackcompose/assets/44567433/8ce6b84a-fea6-4a52-994e-33a70f38b30b" width="250" height="500"/> <img src="https://github.com/xavijimenezmulet/ratingbar-jetpackcompose/assets/44567433/b10f9cab-cf69-4704-b962-fcee197a9176" width="250" height="500"/>
 
+## Features:
+
+Customizable Images: With this rating bar, you have the freedom to customize the rating icons using various image sources such as shapes, image vectors, drawables, and even async images loaded from a URL.
+
+Shape Customization: You can use different shapes to represent the rating icons, allowing you to create unique and visually appealing rating bars.
+
+Image Vector Support: The rating bar supports image vectors, which are scalable and resolution-independent. This enables you to use vector-based icons as rating symbols for a crisp and sharp visual presentation.
+
+Drawable Integration: You can utilize drawables as rating icons, offering a wide range of possibilities for icon designs and styles. Drawables can be easily customized and applied to the rating bar.
+
+AsyncImage (URL) Compatibility: The rating bar also supports loading rating icons asynchronously from a URL using the AsyncImage component. This allows you to dynamically fetch and display rating icons from remote sources.
+
 ## Getting Started
 
 To get started with the Compose Shapes Repository, simply clone the repository and import the desired shape utilities or custom shapes into your Compose project. You can then use these shapes in your Compose UI code by applying them to the appropriate components using the provided extensions.
