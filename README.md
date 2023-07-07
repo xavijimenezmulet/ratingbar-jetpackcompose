@@ -12,4 +12,4 @@
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/xavijimenez)
 
 
-<img src="https://github.com/xavijimenezmulet/ratingbar-jetpackcompose/assets/44567433/782dbe9d-36b9-4aea-a132-a124af70c092" width="250" height="500"/> <img src="https://github.com/xavijimenezmulet/ratingbar-jetpackcompose/assets/44567433/b10f9cab-cf69-4704-b962-fcee197a9176" width="250" height="500"/>
+<img src="https://github.com/xavijimenezmulet/shapes-for-jetpackcompose/assets/44567433/8ce6b84a-fea6-4a52-994e-33a70f38b30b" width="250" height="500"/> <img src="https://github.com/xavijimenezmulet/ratingbar-jetpackcompose/assets/44567433/b10f9cab-cf69-4704-b962-fcee197a9176" width="250" height="500"/>
