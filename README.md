@@ -15,7 +15,7 @@ This repository contains a custom RatingBar component built for Jetpack Compose,
 
 <img src="https://github.com/xavijimenezmulet/shapes-for-jetpackcompose/assets/44567433/8ce6b84a-fea6-4a52-994e-33a70f38b30b" width="250" height="500"/> <img src="https://github.com/xavijimenezmulet/ratingbar-jetpackcompose/assets/44567433/b10f9cab-cf69-4704-b962-fcee197a9176" width="250" height="500"/>
 
-## Features:
+## Features
 
 Customizable Images: With this rating bar, you have the freedom to customize the rating icons using various image sources such as shapes, image vectors, drawables, and even async images loaded from a URL.
 
