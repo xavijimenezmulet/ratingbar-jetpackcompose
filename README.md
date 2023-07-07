@@ -11,5 +11,59 @@
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/xavijimenez)
 
+This repository contains a custom RatingBar component built for Jetpack Compose, a modern UI toolkit for Android app development. The RatingBar component provides a user-friendly way to rate items or content by allowing users to select a specific number of stars. It offers customization options such as star color, size, and maximum rating value.
 
 <img src="https://github.com/xavijimenezmulet/shapes-for-jetpackcompose/assets/44567433/8ce6b84a-fea6-4a52-994e-33a70f38b30b" width="250" height="500"/> <img src="https://github.com/xavijimenezmulet/ratingbar-jetpackcompose/assets/44567433/b10f9cab-cf69-4704-b962-fcee197a9176" width="250" height="500"/>
+
+## Getting Started
+
+To get started with the Compose Shapes Repository, simply clone the repository and import the desired shape utilities or custom shapes into your Compose project. You can then use these shapes in your Compose UI code by applying them to the appropriate components using the provided extensions.
+
+```bash
+allprojects {
+	repositories {
+		maven { url 'https://jitpack.io' }
+	}
+}
+```
+
+Step 2. Add the dependency:
+
+```bash
+dependencies {
+	implementation "com.github.xavijimenezmulet:ratingbar-jetpackcompose:$latest_version"
+}
+```
+
+Simple usage:
+
+```kotlin
+@Preview(name = "WithLine")
+@Composable
+fun DrawableRatingBarSample() {
+    val data: List<Data> = listOf(
+        DrawableData(R.drawable.ic_cat_terrible, "Terrible"),
+        DrawableData(R.drawable.ic_cat_bad, "Bad"),
+        DrawableData(R.drawable.ic_cat_okay, "Okay"),
+        DrawableData(R.drawable.ic_cat_good, "Good"),
+        DrawableData(R.drawable.ic_cat_awesome, "Awesome"),
+    )
+
+
+    val (rating, setRating) = remember {
+        mutableStateOf(data.size / 2)
+    }
+    Column(
+        horizontalAlignment = Alignment.CenterHorizontally
+    ) {
+        Text(text = "Drawable RatingBar")
+        ImageRatingBar(
+            data = data,
+            rating = rating,
+            setRating = setRating,
+        )
+    }
+}
+```
+
+Any help and improve the code will be welcome.
