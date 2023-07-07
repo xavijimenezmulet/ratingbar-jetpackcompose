@@ -1,5 +1,15 @@
-# ratingbar-jetpackcompose
-This repository contains a custom RatingBar component built for Jetpack Compose, a modern UI toolkit for Android app development. The RatingBar component provides a user-friendly way to rate items or content by allowing users to select a specific number of stars. It offers customization options such as star color, size, and maximum rating value.
+# Compose RatingBar Repository
 
-![ratingbar2](https://github.com/xavijimenezmulet/ratingbar-jetpackcompose/assets/44567433/b10f9cab-cf69-4704-b962-fcee197a9176)
-![ratingbar](https://github.com/xavijimenezmulet/ratingbar-jetpackcompose/assets/44567433/782dbe9d-36b9-4aea-a132-a124af70c092)
+[![Download](https://jitpack.io/v/xavijimenezmulet/shapes-for-jetpackcompose.svg)](https://jitpack.io/#xavijimenezmulet/shapes-for-jetpackcompose)
+[![API](https://img.shields.io/badge/API-26%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=26)
+![Build Status](https://github.com/Dhaval2404/ImagePicker/workflows/Build/badge.svg)
+![PR Welcome](https://camo.githubusercontent.com/b0ad703a46e8b249ef2a969ab95b2cb361a2866ecb8fe18495a2229f5847102d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d77656c636f6d652d627269676874677265656e2e737667)
+![Language](https://img.shields.io/badge/language-Kotlin-orange.svg)
+[![ktlint](https://img.shields.io/badge/code%20style-%E2%9D%A4-FF4081.svg)](https://ktlint.github.io/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/xavijimenezmulet/SnackBar/blob/main/LICENSE)
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/xavijimenez)
+
+
+<img src="https://github.com/xavijimenezmulet/ratingbar-jetpackcompose/assets/44567433/782dbe9d-36b9-4aea-a132-a124af70c092" width="250" height="500"/> <img src="https://github.com/xavijimenezmulet/ratingbar-jetpackcompose/assets/44567433/b10f9cab-cf69-4704-b962-fcee197a9176" width="250" height="500"/>
